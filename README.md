@@ -1,10 +1,13 @@
 # **Franz Ludwig Kostelezky** | Featured Projects
 Software Engineer • Backend Systems • Infrastructure Engineering • Embedded Software
 
-> I enjoy building reliable systems—from low-level embedded applications to distributed backend services and cloud-native infrastructure. My work combines software engineering, automation, systems design, and operations with a strong hands-on approach.
+> I enjoy building reliable systems - from low-level embedded applications to distributed backend services and cloud-native infrastructure. My work combines software engineering, automation, systems design, and operations with a strong hands-on approach.
 
 **Core Technologies**
 Python • C++ • TypeScript • Docker • Django • PostgreSQL • MQTT • CI/CD
+
+**Education**
+B.Sc. & M.Sc. in Embedded Systems Engineering, University of Freiburg
 
 **Professional Experience**
 Visit my [LinkedIn](https://www.linkedin.com/in/flemk/) profile for details.
