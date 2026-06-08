@@ -15,14 +15,14 @@ Backend Engineering • Frontend Engineering • UI/UX Design • Platform Engin
 ## Homelab Operator
 [visit GitHub repository ⭧](https://github.com/flemk/homelab-operator)
 
-Infrastructure management platform for self-hosted environments.
+Management platform for self-hosted environments: Manage your homelab devices, automate tasks, route traffic, and monitor your infrastructure from a single web interface.
 
-**Highlights**
-* Device lifecycle management
-* Wake-on-LAN and remote shutdown
+* Automatic Wake-on-LAN and remote shutdown
 * Automation tooling
 * Infrastructure monitoring
 * Web-based administration interface
+* Progressive Web Application (PWA) with responsive design
+* Containerized and easily deployable
 
 **Tech Stack**
 Python • Django • Docker • Linux
@@ -34,16 +34,21 @@ Python • Django • Docker • Linux
     </div>
 </details>
 
-## frutico.net
+<details>
+    <summary><b>Infrastructure</b></summary>
+    Infrastructure details coming soon.
+</details>
+
+## frutico
 `private repository` | [visit frutico.net ⭧](https://frutico.net)
 
-A social networking platform built as a Progressive Web Application (PWA).
+An invite-only social networking platform built as a Progressive Web Application (PWA) serving 50+ active users. Frutico offers a modern alternative to traditional social media platforms, offering the same and new features, suitable for small communities and groups of friends.
 
-**Highlights**
 * Invitation-only community platform
 * End-to-end encrypted messaging
 * Real-time communication features
 * Responsive mobile-first design
+* Stories, posts, profiles, groups, rushes & loop (new content format!), and more
 * Containerized deployment infrastructure
 
 **Tech Stack**
@@ -64,25 +69,24 @@ Django • PostgreSQL • Docker • NGINX • JavaScript
     For security reasons, the infrastructure details of frutico.net are not publicly disclosed.
 </details>
 
-## Intercom
+## "Intercom"
 `private repository`
 
-Smart-home intercom and door management system.
+Smart-home intercom and door management system: Extends your existing intercom with smart features, allowing you to control your door lock and manage access through a web interface and mobile app.
 
-**Highlights**
-* Legacy intercom integration
+* Integration with legacy intercom hardware
 * Electronic door lock control
 * Mobile and web applications
 * MQTT-based communication
 * Subscription-based remote access platform
 
 **Tech Stack**
-C++ • Python • Flutter • Django • MQTT • Docker
+C++ • Python • NodeJS • Django • MQTT • Docker • Flutter
 
 <details>
     <summary><b>Inspiration</b> Show screenshots</summary>
     <div style="display: flex; gap: 16px; flex-wrap: wrap;">
-        <img src="./src/intercom/dashboard.png" alt="dashboard" width="320" />
+        <img src="./src/intercom/dashboard.png" alt="dashboard" />
     </div>
 </details>
 
@@ -91,13 +95,12 @@ C++ • Python • Flutter • Django • MQTT • Docker
     Infrastructure details coming soon.
 </details>
 
-## Radius
+## "Radius"
 `private repository`
 
-Digital fitness assessment and rehabilitation management platform.
+Digital fitness assessment management platform for rehabilitation centers: Streamlines the fitness assessment process for rehabilitation centers, providing tools for managing clients, sessions, and reporting.
 
-**Highlights**
-* Automated fitness evaluation workflows
+* Automated and user-customizable fitness evaluation workflows
 * Digital replacement for manual assessment processes
 * Client and session management
 * Reporting and analytics
@@ -108,13 +111,24 @@ Python • Django • MySQL • Docker
 ## Mailman
 `private repository`
 
-Email infrastructure and delivery platform.
+AI powered mail processing and automation platform: Automate your email workflows with AI-driven processing, categorization, and response generation.
 
-**Highlights**
-* Automated mail processing
-* Reliable message delivery workflows
-* Administrative tooling
-* Infrastructure automation
+* AI-powered email categorization and prioritization
+* Automated response generation
+* Security features: Whitelist/blacklist management for AI processing
+* User-friendly interface for managing email workflows
+* Providing AI agents access to contextual information
+* Calendar integration for scheduling and reminders
 
 **Tech Stack**
-Python • Docker • Linux
+Python • Django • Docker • OpenAI API
+
+<details>
+    <summary><b>Inspiration</b> Show screenshots</summary>
+    Screenshots coming soon.
+</details>
+
+<details>
+    <summary><b>Infrastructure</b></summary>
+    Infrastructure details coming soon.
+</details>
