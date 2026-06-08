@@ -125,7 +125,10 @@ Python • Django • Docker • OpenAI API
 
 <details>
     <summary><b>Inspiration</b> Show screenshots</summary>
-    Screenshots coming soon.
+    <div style="display: flex; gap: 16px; flex-wrap: wrap;">
+        <img src="./src/mailman/mailman-landing.png" alt="mailman-landing" width="320" />
+        <img src="./src/mailman/mailman-inbox.png" alt="mailman-inbox" width="320" />
+    </div>
 </details>
 
 <details>
